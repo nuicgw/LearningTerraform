@@ -1,4 +1,9 @@
 variable "file_content" {
     type = string
-    default = "Hello from Terraform variables!"
+    default = "file content from variables.tf"
+}
+
+variable "filename" {
+    type = string
+    default = "file name from variables.tf" 
 }
