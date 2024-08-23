@@ -4,6 +4,6 @@ resource tls_private_key pvtkey {
 }
 
 resource "local_file" "key_details" {
-  filename = "/root/key.txt"
+  filename = "key.txt"
   content = "${tls_private_key.pvtkey.public_key_pem}"
 }
