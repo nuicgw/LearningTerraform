@@ -5,7 +5,8 @@
 * [completed] Getting Started with Terraform
 * [completed] Terraform Basics
 * [completed] Terraform State
-* Working with Terraform
+* [in progress]Working with Terraform
+    * Meta-Arguments 
 * Terraform with AWS
 * Remote State
 * Terraform Provisioners
