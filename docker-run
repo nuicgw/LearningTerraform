@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+docker run -it --rm nuicgw/tf
