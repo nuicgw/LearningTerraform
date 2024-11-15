@@ -7,6 +7,7 @@
 * [completed] Terraform State
 * [completed] Working with Terraform
 * [in progress] Terraform with AWS
+    * [up-to-here] Introduction to AWS S3 
 * Remote State
 * Terraform Provisioners
 * Terraform Import, Tainting Resources and Debugging
